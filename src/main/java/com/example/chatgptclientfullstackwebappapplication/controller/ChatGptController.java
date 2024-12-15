@@ -23,7 +23,7 @@ public class ChatGptController {
         String apiURL = "https://api.openai.com/v1/chat/completions";
 
         // Replace with your OpenAI API Key
-        String apiKey = "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";
+        String apiKey = "";
 
         // Align request body with the Swing app format
         String requestBody = "{\n" +
